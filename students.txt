@@ -1,0 +1,9 @@
+
+101,Ravi,20,Python
+102,Bob,21,C
+103,Adam,21,Java
+104,Anil,22,C++
+105,Chetan,20,Python
+106,Dhruv,23,DSA
+107,Bhumika,22,Java
+108,Farah,25,MySql
